@@ -1,2 +1,2 @@
 # hello-world
-just ti understand
+just to understand
